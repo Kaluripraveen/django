@@ -13,6 +13,7 @@ idna
 mysqlclient
 oauthlib
 Pillow
+psycopg2-binary
 PyJWT
 python3-openid
 pytz
